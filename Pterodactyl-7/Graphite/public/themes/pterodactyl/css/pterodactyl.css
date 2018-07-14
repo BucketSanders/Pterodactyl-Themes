@@ -23,7 +23,7 @@
  @import 'checkbox.css';
 
 .login-page {
-    background: #cf000f; /* Edited For Dark Theme*/
+    background: #7c010a; /* Edited For Dark Theme*/
 }
 
 #login-position-elements {
@@ -83,7 +83,7 @@
 }
 
 .pterodactyl-login-button--left {
-    background: rgba(255, 255, 255, 0.4);
+    background: rgba(255, 255, 255, 0.541);
     border: 1px solid rgba(255, 255, 255, 0.6);
     border-radius: 2px;
     color: #fff;
@@ -134,7 +134,7 @@ p.small {
 }
 
 .control-sidebar-dark .control-sidebar-menu > li > a.active {
-    background: #cf000f;
+    background: #7c010a;
 }
 
 .callout-nomargin {
