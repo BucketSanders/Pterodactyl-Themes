@@ -1,5 +1,5 @@
-# Hexane Pterodactyl Themes
-Themes for HexaneNetworks Pterodactyl instances!
+# HexaneNetworks-designed Pterodactyl Themes
+Themes for making your pterodactyl instance with a HexaneNetworks design.
 
 ## Can I use this theme?
 Sure! These themes are open source and allowed for all modifications. However, I do not provide any support for anything non-Hexane related.
