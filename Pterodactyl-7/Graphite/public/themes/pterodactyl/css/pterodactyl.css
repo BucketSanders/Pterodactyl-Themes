@@ -23,7 +23,7 @@
  @import 'checkbox.css';
 
 .login-page {
-    background: #232323; /* Edited For Dark Theme*/
+    background: #cf000f; /* Edited For Dark Theme*/
 }
 
 #login-position-elements {
@@ -134,7 +134,7 @@ p.small {
 }
 
 .control-sidebar-dark .control-sidebar-menu > li > a.active {
-    background: #1e282c;
+    background: #cf000f;
 }
 
 .callout-nomargin {
