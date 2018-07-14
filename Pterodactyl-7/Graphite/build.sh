@@ -21,7 +21,7 @@ if [ ! -f "artisan" ]; then
     cp -r Pterodactyl-7/Graphite/public ..
     cp -r Pterodactyl-7/Graphite/resources ..
 
-    echo "Files have been applied..."
+    echo "Files have been applied"
     sleep 2
 
     echo "Removing the temp folders created in the copy process..."
