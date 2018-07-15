@@ -5,28 +5,27 @@ if [ ! -f "artisan" ]; then
 
     else
 
-    echo "You seem to be in the right directory! Woohoo!!"
+    echo "You seem to be in the right directory. Continuing setup..."
     sleep 2
 
-    echo "Making Sure you have GIT, installed"
+    echo "Ensuring GIT is installed..."
     sleep 1
     apt install git zip -y
 
-    echo "Backing up previous panel files in the case that something goes wrong!"
+    echo "Backing up previous panel files in case of errors..."
     zip -r PanelBackup-$(date +"%Y-%m-%d").zip public resources
 
-    echo "Downloading the Theme you picked"
-    mkdir -p tempdown && cd tempdown && git clone https://github.com/TheFonix/Pterodactyl-Themes.git . 
+    echo "Downloading your theme..."
+    mkdir -p tempdown && cd tempdown && git clone https://github.com/BucketSanders/Pterodactyl-Themes.git . 
     cp -r Pterodactyl-7/Midnight/public ..
     cp -r Pterodactyl-7/Midnight/resources ..
 
-    echo "Files have been copied over!"
+    echo "Files download complete."
     sleep 2
 
-    echo "Removing the temp folders created in the copy process"
+    echo "Removing the temp folders created in the copy process..."
 
     cd .. && rm -rf tempdown
 
-    echo "Complete! Have a good day and dont forget to refresh your browser cache!"
-    echo "-Fonix"
+    echo "Theme installation complete! Thanks for using HexaneNetworks themes!"
 fi

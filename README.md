@@ -12,5 +12,9 @@ Each Theme has a small code snippet that you must run inside the Pterodactyl pan
 ```
 curl https://raw.githubusercontent.com/BucketSanders/Pterodactyl-Themes/master/Pterodactyl-7/Graphite/build.sh | sh
 ```
+### HexaneNetworks Red/Black Midnight Theme
+```
+curl https://raw.githubusercontent.com/BucketSanders/Pterodactyl-Themes/master/Pterodactyl-7/Midnight/build.sh | sh
+```
 
 More of these are coming soon. Come back here every now and again to check :)
