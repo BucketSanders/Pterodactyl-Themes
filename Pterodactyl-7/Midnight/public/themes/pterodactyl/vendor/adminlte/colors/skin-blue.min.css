@@ -31,7 +31,7 @@
 }
 
 .skin-blue .main-header .navbar .sidebar-toggle:hover {
-    background-color: #3d0004
+    background-color: #000000
 }
 
 @media (max-width:767px) {
@@ -42,7 +42,7 @@
         color: #fff
     }
     .skin-blue .main-header .navbar .dropdown-menu li a:hover {
-        background: #3d0004
+        background: #b3b3b3
     }
 }
 
@@ -53,11 +53,11 @@
 }
 
 .skin-blue .main-header .logo:hover {
-    background-color: #3d0004
+    background-color: #b3b3b3
 }
 
 .skin-blue .main-header li.user-header {
-    background-color: #490005
+    background-color: #b3b3b3
 }
 
 .skin-blue .content-header {
@@ -88,7 +88,7 @@
 .skin-blue .sidebar-menu>li.active>a,
 .skin-blue .sidebar-menu>li.menu-open>a {
     color: #fff;
-    background: #290003
+    background: #b3b3b3
 }
 
 .skin-blue .sidebar-menu>li.active>a {
