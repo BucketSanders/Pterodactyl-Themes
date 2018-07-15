@@ -1,5 +1,5 @@
 .skin-blue .main-header .navbar {
-    background-color: #000000
+    background-color: #7c010a
 }
 
 .skin-blue .main-header .navbar .nav>li>a {
@@ -42,22 +42,22 @@
         color: #fff
     }
     .skin-blue .main-header .navbar .dropdown-menu li a:hover {
-        background: #b3b3b3
+        background: #3d0004
     }
 }
 
 .skin-blue .main-header .logo {
-    background-color: #000000;
+    background-color: #7c010a;
     color: #fff;
     border-bottom: 0 solid transparent
 }
 
 .skin-blue .main-header .logo:hover {
-    background-color: #b3b3b3
+    background-color: #3d0004
 }
 
 .skin-blue .main-header li.user-header {
-    background-color: #b3b3b3
+    background-color: #490005
 }
 
 .skin-blue .content-header {
@@ -67,7 +67,7 @@
 .skin-blue .wrapper,
 .skin-blue .main-sidebar,
 .skin-blue .left-side {
-    background-color: #000000
+    background-color: #7c010a
 }
 
 .skin-blue .user-panel>.info,
@@ -77,7 +77,7 @@
 
 .skin-blue .sidebar-menu>li.header {
     color: #ffffff;
-    background: #b3b3b3
+    background: #460005
 }
 
 .skin-blue .sidebar-menu>li>a {
@@ -88,16 +88,16 @@
 .skin-blue .sidebar-menu>li.active>a,
 .skin-blue .sidebar-menu>li.menu-open>a {
     color: #fff;
-    background: #b3b3b3
+    background: #290003
 }
 
 .skin-blue .sidebar-menu>li.active>a {
-    border-left-color: #b3b3b3
+    border-left-color: #770000
 }
 
 .skin-blue .sidebar-menu>li>.treeview-menu {
     margin: 0 1px;
-    background: #000000
+    background: #7c010a
 }
 
 .skin-blue .sidebar a {
@@ -109,7 +109,7 @@
 }
 
 .skin-blue .sidebar-menu .treeview-menu>li>a {
-    color: #7a7a7a
+    color: #7f87a1
 }
 
 .skin-blue .sidebar-menu .treeview-menu>li.active>a,
@@ -119,14 +119,14 @@
 
 .skin-blue .sidebar-form {
     border-radius: 3px;
-    border: 1px solid #b3b3b3;
+    border: 1px solid #2f323f;
     margin: 10px 10px
 }
 
 .skin-blue .sidebar-form input[type="text"],
 .skin-blue .sidebar-form .btn {
     box-shadow: none;
-    background-color: #b3b3b3;
+    background-color: #2f323f;
     border: 1px solid transparent;
     height: 35px
 }
@@ -158,11 +158,11 @@
 }
 
 .skin-blue.layout-top-nav .main-header>.logo {
-    background-color: #b3b3b3;
+    background-color: #7c010a;
     color: #fff;
     border-bottom: 0 solid transparent
 }
 
 .skin-blue.layout-top-nav .main-header>.logo:hover {
-    background-color: #b3b3b3
+    background-color: #10509a
 }
