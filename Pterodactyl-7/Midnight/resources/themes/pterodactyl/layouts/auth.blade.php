@@ -41,7 +41,7 @@
                 </div>
                 @yield('content')
                 <p class="small login-copyright text-center">
-                    Copyright &copy; 2015 - {{ date('Y') }} <a href="https://pterodactyl.io/" target="_blank">Pterodactyl Software</a>. | Theme: <a href="https://fonix.online/">Fonix</a><br />
+                    Copyright &copy; 2015 - {{ date('Y') }} <a href="https://pterodactyl.io/" target="_blank">Pterodactyl Software</a>. | Theme: HexaneNetworks<br />
                 </p>
             </div>
         </div>

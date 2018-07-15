@@ -56,7 +56,7 @@
                 <div class="pull-right hidden-xs small text-gray">
                     <strong>v</strong> {{ config('app.version') }}
                 </div>
-                Copyright &copy; 2015 - {{ date('Y') }} <a href="https://pterodactyl.io/">Pterodactyl Software</a>. | Theme: <a href="https://fonix.online/">Fonix</a>
+                Copyright &copy; 2015 - {{ date('Y') }} <a href="https://pterodactyl.io/">Pterodactyl Software</a>. | Theme: HexaneNetworks
             </footer>
         </div>
         @section('footer-scripts')
